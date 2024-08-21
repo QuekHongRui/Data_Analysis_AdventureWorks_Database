@@ -1,1 +1,3 @@
-# Data_Analysis_AdventureWorks_Database
+# SQL: AdventureWorks Database Queries
+
+*To be updated...*
